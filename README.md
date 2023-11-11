@@ -7,9 +7,7 @@
 
 - 💼 Currently looking for a full-time remote job
 - 🌱 Currently studying Python + Pytest + Selenium
-- 📫  How to contact me: <a href="mailto:fobos_media@mail.ru "><img alt="Email" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF "></a> <a href="https://t.me/jrush_fobos "><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=FFF "></a><a href="https://www.linkedin.com/in/eugene-mokr/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=FFF" alt="LinkedIn" />
-</a>
+- 📫  How to contact me: <a href="mailto:fobos_media@mail.ru "><img alt="Email" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF "></a> <a href="https://t.me/jrush_fobos "><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=FFF "></a><a href="https://www.linkedin.com/in/eugene-mokr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=FFF" alt="LinkedIn" /></a>
 - 🏫 Studied information systems at Perm State National Research University
 
 ### Languages and tools
