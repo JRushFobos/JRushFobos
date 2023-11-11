@@ -1,7 +1,8 @@
 <h1 align="center">Mokrushin Evgeny</h1>
 <h3 align="center">Python Developer</h3>
 
-<div align="left"></left>I am a Python backend developer from Perm. I use Python + Django-based application development and Python + Pytest + Selenium-based testing automation </div>
+<div align="left"></left>I am a Python backend developer from Perm. 
+I use Python + Django-based application development and Python + Pytest + Selenium-based testing automation </div>
 
 <br>
 
@@ -17,7 +18,6 @@
 <a href="https://docs.pytest.org"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-FFF?logo=pytest&logoColor=FFF&labelColor=0A9EDC" height="25px"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-FFF?logo=selenium&logoColor=FFF&labelColor=43B02A" height="25px"></a>
 <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFF?logo=postgresql&logoColor=FFF&labelColor=4169E1" height="25px"></a>  
-<a href="https://www.postgresql.org"><img alt="PostgreSQL" src="ссылка_на_изображение_PostgreSQL" height="25px"></a>
 <a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-FFF?logo=sqlite&logoColor=FFF&labelColor=003B57" height="25px"></a>
 <br>
 <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFF?logo=docker&logoColor=FFF&labelColor=2496ED" height="25px"></a>
