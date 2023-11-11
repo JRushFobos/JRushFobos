@@ -1,4 +1,4 @@
-<h1 align="center">Mokrushin Evgeny</h1>
+<h1 align="center">Mokrushin Eugeniy</h1>
 <h3 align="center">Python Developer</h3>
 
 <div align="left"></left>I am a Python backend developer from Perm. 
